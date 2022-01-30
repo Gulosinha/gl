@@ -194,6 +194,9 @@ label{
 #prod8, #prod9, #prod10{
   display: none;
 }
+#det1,#det2,#det3,#det4,#det5,#det6,#det7{
+  display: none;
+  }
 .etiq{
   background: whitesmoke;
   width: 10vw;
